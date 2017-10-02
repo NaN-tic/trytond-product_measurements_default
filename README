@@ -1,0 +1,20 @@
+trytond_product_measurements_default
+====================================
+
+The product_measurements_default module of the Tryton application platform.
+
+Installing
+----------
+
+See INSTALL
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT

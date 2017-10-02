@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- This file is part of product_measurements_default module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license terms. -->
+<data>
+    <xpath expr="/form"
+            position="inside">
+        <newline/>
+        <separator id="measurements" string="Measurements" colspan="4"/>
+        <label name="length_uom"/>
+        <field name="length_uom"/>
+        <label name="height_uom"/>
+        <field name="height_uom"/>
+        <label name="width_uom"/>
+        <field name="width_uom"/>
+        <label name="volume_uom"/>
+        <field name="volume_uom"/>
+        <label name="weight_uom"/>
+        <field name="weight_uom"/>
+    </xpath>
+</data>

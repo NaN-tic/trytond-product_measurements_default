@@ -1,0 +1,27 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.configuration,height_uom:"
+msgid "Height Uom"
+msgstr "UdM de la altura"
+
+msgctxt "field:product.configuration,length_uom:"
+msgid "Length Uom"
+msgstr "UdM de la longitud"
+
+msgctxt "field:product.configuration,volume_uom:"
+msgid "Volume Uom"
+msgstr "UdM del volumen"
+
+msgctxt "field:product.configuration,weight_uom:"
+msgid "Weight Uom"
+msgstr "UdM del peso"
+
+msgctxt "field:product.configuration,width_uom:"
+msgid "Width Uom"
+msgstr "UdM del ancho"
+
+msgctxt "view:product.configuration:"
+msgid "Measurements"
+msgstr "Medidas"
